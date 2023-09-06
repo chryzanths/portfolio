@@ -15,21 +15,21 @@ Github.
 
 # Certification
 Code.org "The Hour of Code" 2021
-May 25, 2021
+(May 25, 2021)
 
 # Seminars
 Introduction to Web Development
-March 25, 2022
+(March 25, 2022)
 
 Database Management: What it is and Why it matters
-March 25, 2022
+(March 25, 2022)
 
 Defender's Guide to a Successful Cybersecurity Career
-March 25, 2022
+(March 25, 2022)
 
 Software Management
-April 12, 2022
+(April 12, 2022)
 
 Process and Flows of an IT Project
-April 8, 2022
+(April 8, 2022)
 
