@@ -14,8 +14,11 @@ Excel or Spreadsheets,
 Github. 
 
 # Certification
-Code.org "The Hour of Code" 2021
+The Hour of Code 2021 on Code.org 
 (May 25, 2021)
+
+Business Analytics with Excel 2023 on Simplilearn
+(September 8, 2023)
 
 # Seminars
 Introduction to Web Development
