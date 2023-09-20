@@ -10,7 +10,7 @@ ABE International Business College
 # Skill sets
 Java, 
 SQL, 
-Excel or Spreadsheets, 
+Excel or Spreadsheets, Git, 
 Github. 
 
 # Certification
