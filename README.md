@@ -1,9 +1,9 @@
 # Education
-BS Computer Science
+BS Computer Science at
 New Era University
 (2020 - Present)
 
-STEM Graduate
+STEM Graduate at
 ABE International Business College
 (2018 - 2020)
 
